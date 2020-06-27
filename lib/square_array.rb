@@ -3,8 +3,10 @@
 numbers = [1,2,3]
 
 def square_array(array)
-  5.times do |index|
-   puts (index).Math.sqrt
+  counter = 0
+  while array[counter] do
+  array.Math.sqrt[counter]
+  counter += 1
   end
 end
 

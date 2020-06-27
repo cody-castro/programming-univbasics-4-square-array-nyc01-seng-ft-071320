@@ -6,7 +6,7 @@ def square_array(array)
   counter = 0
   while array[counter] do
   (array) [counter]
-  counter += 1.Math.sqrt
+  counter += **
   end
 end
 

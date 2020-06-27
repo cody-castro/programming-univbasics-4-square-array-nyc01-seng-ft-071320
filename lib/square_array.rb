@@ -1,10 +1,11 @@
 
 
-num = []
+
 def square_array(array)
+  num = []
   counter = 0
-  while array[counter] do
-  (array) [counter]
+    while counter < numbers.length do
+  numbers[counter]
   counter += 1
   end
 end
